@@ -45,10 +45,8 @@ Prometheus helps emerging and established managers connect with the right capita
 - Gain a competitive edge with ideas from  professional users.
 - Strengthen client portfolios by diversifying into alternative assets.
 
-<hr>
+## Learn and invest* with professionals
 
-<h3 align="center">Learn and invest* with professionals</h3>
+[Get Started with Prometheus](https://www.prometheusalts.com/sign-up)
 
-<p align="center">
-  <a href="https://www.prometheusalts.com/sign-up"><strong>[ Get Started with Prometheus ]</strong></a>
-</p>
+(*Investing in funds on Prometheus is currently reserved for accredited investors.*)

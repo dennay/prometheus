@@ -27,7 +27,7 @@
         <img src="./assets/icons/original/circle.svg" alt="Circle Icon">
         <br>
         <br>
-        Create a profile on our app or website to get started
+        <a href="">Create a profile</a> on our app or website to get started
         <br>
         <br>
       </p>
@@ -38,7 +38,7 @@
         <img src="./assets/icons/original/bulb.svg" alt="Bulb Icon">
         <br>
         <br>
-        Discover ideas from professional investors in your newsfeed
+        <a href="">Discover ideas</a> from professional investors in your newsfeed
         <br>
         <br>
       </p>
@@ -49,7 +49,7 @@
         <img src="./assets/icons/original/bar.svg" alt="Bar Chart Icon">
         <br>
         <br>
-        Invest in professionally managed alternative funds*
+        <a href="">Invest in</a> professionally managed alternative funds*
         <br>
         <br>
       </p>
@@ -98,7 +98,7 @@ Prometheus helps emerging and established managers connect with the right capita
         <img src="./assets/icons/original/trophy.png" width="64px" height="64px" alt="Trophy Icon">
         <br>
         <br>
-        Win and retain clients with compelling content.
+        <a href="">Win and retain clients</a> with compelling content.
         <br>
         <br>
       </p>
@@ -109,7 +109,7 @@ Prometheus helps emerging and established managers connect with the right capita
         <img src="./assets/icons/original/student.png" width="64px" height="64px" alt="Student Icon">
         <br>
         <br>
-        Gain a competitive edge with ideas from  professional users.
+        <a href="">Gain a competitive edge</a> with ideas from  professional users.
         <br>
         <br>
       </p>
@@ -120,13 +120,19 @@ Prometheus helps emerging and established managers connect with the right capita
         <img src="./assets/icons/original/barbell.png" width="48px" height="64px" alt="Barbell Icon">
         <br>
         <br>
-        Strengthen client portfolios by diversifying into alternative assets.
+        <a href="">Strengthen client portfolios</a> by diversifying into alternative assets.
         <br>
         <br>
       </p>
     </td>
   </tr>
 </table>
+
+<hr>
+
+<h3 align="center">Professionals are creating on Prometheus</h3>
+
+[![Backers](https://opencollective.com/bootstrap/backers.svg?width=1012)](https://opencollective.com/bootstrap#backers)
 
 <hr>
 
