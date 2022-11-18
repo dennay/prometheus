@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.prometheusalts.com/">
-    <img src="./assets/custom/logo_nomargin.png" alt="Prometheus Logo" width="128px" height="128px">
+    <img src="./assets/custom/logo/logo_nomargin.png" alt="Prometheus Logo" width="128px" height="128px">
   </a>
 </p>
 
@@ -12,11 +12,12 @@
   A social network for everyone to get market insights directly from professional investors.
   <br>
   <br>
-  <strong>
-    <a href="https://app.prometheusalts.com">Web App</a>
-    ·
-    <a href="https://apps.apple.com/us/app/prometheus-invest-in-alts/id1555304910">App Store</a>
-  </strong>
+  <a href="https://app.prometheusalts.com">
+    <img src="./assets/custom/button/btn_webapp.png" alt="Web App">
+  </a>
+  <a href="https://apps.apple.com/us/app/prometheus-invest-in-alts/id1555304910">
+    <img src="./assets/custom/button/btn_appstore.png" alt="App Store">
+  </a>
 </p>
 
 <hr>
@@ -28,7 +29,7 @@
     <td valign="top" width="33%">
       <p align="center">
         <br>
-        <img src="./assets/icons/original/circle.svg" alt="Circle Icon">
+        <img src="./assets/custom/icon/circle.svg" alt="Circle Icon">
         <br>
         <br>
         <a href="#">Create a profile</a> on our app or website to get started
@@ -39,7 +40,7 @@
     <td valign="top" width="34%">
       <p align="center">
         <br>
-        <img src="./assets/icons/original/bulb.svg" alt="Bulb Icon">
+        <img src="./assets/custom/icon/bulb.svg" alt="Bulb Icon">
         <br>
         <br>
         <a href="#">Discover ideas</a> from professional investors in your newsfeed
@@ -50,7 +51,7 @@
     <td valign="top" width="33%">
       <p align="center">
         <br>
-        <img src="./assets/icons/original/bar.svg" alt="Bar Chart Icon">
+        <img src="./assets/custom/icon/bar.svg" alt="Bar Chart Icon">
         <br>
         <br>
         <a href="#">Invest in</a> professionally managed alternative funds*
@@ -99,7 +100,7 @@ Prometheus helps emerging and established managers connect with the right capita
     <td valign="top" width="33%">
       <p align="center">
         <br>
-        <img src="./assets/icons/original/trophy.png" width="64px" height="64px" alt="Trophy Icon">
+        <img src="./assets/custom/icon/trophy.png" width="64px" height="64px" alt="Trophy Icon">
         <br>
         <br>
         <a href="#">Win and retain clients</a> with compelling content.
@@ -110,7 +111,7 @@ Prometheus helps emerging and established managers connect with the right capita
     <td valign="top" width="34%">
       <p align="center">
         <br>
-        <img src="./assets/icons/original/student.png" width="64px" height="64px" alt="Student Icon">
+        <img src="./assets/custom/icon/student.png" width="64px" height="64px" alt="Student Icon">
         <br>
         <br>
         <a href="#">Gain a competitive edge</a> with ideas from  professional users.
@@ -121,7 +122,7 @@ Prometheus helps emerging and established managers connect with the right capita
     <td valign="top" width="33%">
       <p align="center">
         <br>
-        <img src="./assets/icons/original/barbell.png" width="48px" height="64px" alt="Barbell Icon">
+        <img src="./assets/custom/icon/barbell.png" width="48px" height="64px" alt="Barbell Icon">
         <br>
         <br>
         <a href="#">Strengthen client portfolios</a> by diversifying into alternative assets.
@@ -135,8 +136,9 @@ Prometheus helps emerging and established managers connect with the right capita
 <hr>
 
 <h3 align="center">Professionals are creating on Prometheus</h3>
+<br>
 
-[![Backers](https://opencollective.com/bootstrap/backers.svg?width=1012)](https://opencollective.com/bootstrap#backers)
+![Prometheus professionals](./assets/custom/people/group.png)
 
 <hr>
 
