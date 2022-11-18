@@ -1,9 +1,7 @@
 <p align="center">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo/NEW LOGOS/Prometheus Logo - Full - White - Gradient Logo.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/logo/NEW LOGOS/Prometheus Logo - Full - Black - Gradient Logo.png">
-    <img alt="Prometheus Logo" src="./assets/logo/NEW LOGOS/Prometheus Logo - Full - White - Gradient Logo.png" width="600px">
-    </picture>
+  <a href="https://www.prometheusalts.com/">
+    <img src="./assets/custom/logo_nomargin.png" alt="Prometheus Logo" width="128px" height="128px">
+  </a>
 </p>
 
 <h3 align="center">Invest in alternatives. Insights from experts.</h3>
@@ -14,39 +12,136 @@
   A social network for everyone to get market insights directly from professional investors.
   <br>
   <br>
-  <a href="https://www.prometheusalts.com/sign-up"><strong>[ Get Started with Prometheus ]</strong></a>
+  <strong>
+    <a href="https://app.prometheusalts.com">Web App</a>
+    ·
+    <a href="https://apps.apple.com/us/app/prometheus-invest-in-alts/id1555304910">App Store</a>
+  </strong>
 </p>
 
 <hr>
 
-## How Prometheus works
+<h3 align="center">How Prometheus works</h3>
 
-- Create a profile on our app or website to get started
-- Discover ideas from professional investors in your newsfeed
-- Invest in professionally managed alternative funds*
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <p align="center">
+        <br>
+        <img src="./assets/icons/original/circle.svg" alt="Circle Icon">
+        <br>
+        <br>
+        <a href="#">Create a profile</a> on our app or website to get started
+        <br>
+        <br>
+      </p>
+    </td>
+    <td valign="top" width="34%">
+      <p align="center">
+        <br>
+        <img src="./assets/icons/original/bulb.svg" alt="Bulb Icon">
+        <br>
+        <br>
+        <a href="#">Discover ideas</a> from professional investors in your newsfeed
+        <br>
+        <br>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center">
+        <br>
+        <img src="./assets/icons/original/bar.svg" alt="Bar Chart Icon">
+        <br>
+        <br>
+        <a href="#">Invest in</a> professionally managed alternative funds*
+        <br>
+        <br>
+      </p>
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <em>(Investing in funds on Prometheus is currently reserved for accredited investors.)</em>
+</p>
 
-(*Investing in funds on Prometheus is currently reserved for accredited investors.*)
+<hr>
 
-## Get professional investment insights
+<h3 align="center">Prometheus Features</h3>
 
-Get real-time insights from professional investors. Learn about emerging managers behind the world’s most innovative funds.
+#### Get professional investment insights
 
-## Access high-quality alternative funds
+```
+Get real-time insights from professional investors. 
 
-Managing your money is a full-time job. With Prometheus, accredited investors can invest with professional money managers.
+Learn about emerging managers behind the world’s most innovative funds.
+```
 
-## Raise more capital for your fund
+#### Access high-quality alternative funds
 
+```
+Managing your money is a full-time job. 
+
+With Prometheus, accredited investors can invest with professional money managers.
+```
+
+#### Raise more capital for your fund
+
+```
 Prometheus helps emerging and established managers connect with the right capital at scale.
+```
 
-## With Prometheus, accredited wealth advisors can
+<hr>
 
-- Win and retain clients with compelling content.
-- Gain a competitive edge with ideas from  professional users.
-- Strengthen client portfolios by diversifying into alternative assets.
+<h3 align="center">With Prometheus, accredited wealth advisors can</h3>
 
-## Learn and invest* with professionals
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <p align="center">
+        <br>
+        <img src="./assets/icons/original/trophy.png" width="64px" height="64px" alt="Trophy Icon">
+        <br>
+        <br>
+        <a href="#">Win and retain clients</a> with compelling content.
+        <br>
+        <br>
+      </p>
+    </td>
+    <td valign="top" width="34%">
+      <p align="center">
+        <br>
+        <img src="./assets/icons/original/student.png" width="64px" height="64px" alt="Student Icon">
+        <br>
+        <br>
+        <a href="#">Gain a competitive edge</a> with ideas from  professional users.
+        <br>
+        <br>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <p align="center">
+        <br>
+        <img src="./assets/icons/original/barbell.png" width="48px" height="64px" alt="Barbell Icon">
+        <br>
+        <br>
+        <a href="#">Strengthen client portfolios</a> by diversifying into alternative assets.
+        <br>
+        <br>
+      </p>
+    </td>
+  </tr>
+</table>
 
-[Get Started with Prometheus](https://www.prometheusalts.com/sign-up)
+<hr>
 
-(*Investing in funds on Prometheus is currently reserved for accredited investors.*)
+<h3 align="center">Professionals are creating on Prometheus</h3>
+
+[![Backers](https://opencollective.com/bootstrap/backers.svg?width=1012)](https://opencollective.com/bootstrap#backers)
+
+<hr>
+
+<h3 align="center">Want more info?</h3>
+
+<p align="center">
+  <a href="https://prometheusalts.com/contact-us"><strong>[ Contact Us ]</strong></a>
+</p>
